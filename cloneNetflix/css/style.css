@@ -19,7 +19,7 @@ header .container {
 	display: flex;
 	flex-direction: row;
 	align-items: center;
-	justify-content: space-between;
+	justify-content: initial;
 }
 
 header .logo{
@@ -32,7 +32,7 @@ header .logo{
 header nav a{
 	text-decoration: none;
 	color: #AAA;
-	margin-right: 10px;
+	margin-left: 30px;
 }
 
 header nav a:hover{
